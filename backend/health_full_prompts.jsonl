@@ -1,0 +1,191 @@
+{"prompt": "Headache", "completion": "Rest in a quiet, dark room and stay hydrated. Avoid bright lights and loud noises. Massage your temples gently and take mild painkillers if necessary. If the headache lasts more than 3 days, or you experience vision problems or nausea, consult a doctor immediately."}
+{"prompt": "Fever", "completion": "Drink plenty of fluids and rest well. You can take paracetamol to control the temperature. Avoid cold environments and stay in a comfortable room. If fever persists for more than 3 days or crosses 102°F, consult a doctor for proper examination."}
+{"prompt": "Cough", "completion": "Drink warm fluids such as ginger tea or honey water. Avoid cold drinks and dust exposure. Rest your throat and avoid shouting. If the cough persists more than a week or is accompanied by high fever or shortness of breath, seek medical advice."}
+{"prompt": "Cold", "completion": "Stay warm, drink warm fluids, and get enough rest. Steam inhalation can help relieve nasal blockage. Avoid chilled foods. If symptoms last longer than 7 days or worsen, consult a physician."}
+{"prompt": "Sore Throat", "completion": "Gargle with warm salt water 2-3 times a day. Drink warm liquids and avoid spicy foods. Use throat lozenges to ease discomfort. If pain or swelling persists beyond 3 days, see a doctor."}
+{"prompt": "Stomach Pain", "completion": "Eat light meals and drink plenty of water. Avoid oily and spicy foods. Rest well and take mild antacids if needed. If the pain is severe or lasts more than 2 days, or if accompanied by vomiting, seek medical attention."}
+{"prompt": "Indigestion", "completion": "Eat smaller meals, avoid junk food, and drink warm water after eating. Avoid lying down immediately after meals. If bloating or discomfort continues for more than 2-3 days, consult a gastroenterologist."}
+{"prompt": "Back Pain", "completion": "Avoid heavy lifting, sit in a correct posture, and apply a warm compress to the affected area. Gentle stretching or yoga may help. If pain radiates to the legs or lasts more than a week, consult an orthopedic doctor."}
+{"prompt": "Joint Pain", "completion": "Apply hot or cold packs, rest the joint, and avoid overexertion. Maintain a healthy diet with calcium and vitamin D. If swelling or stiffness increases, consult a specialist."}
+{"prompt": "Toothache", "completion": "Rinse your mouth with warm salt water. Avoid very hot or cold food. You can apply a cold pack on your cheek to reduce swelling. Visit a dentist if pain persists beyond 24 hours."}
+{"prompt": "Eye Pain", "completion": "Rest your eyes and avoid screen time. Wash your eyes with clean water. Use prescribed lubricating drops if dryness occurs. If redness or vision blurring persists, consult an ophthalmologist."}
+{"prompt": "Ear Pain", "completion": "Avoid inserting anything into your ear. Apply a warm cloth outside for relief. If fluid discharge or hearing loss occurs, visit an ENT specialist."}
+{"prompt": "Allergy", "completion": "Avoid known allergens, dust, and smoke. Take antihistamines if required. Keep windows closed during high pollen seasons. Visit a doctor if rashes or breathing problems appear."}
+{"prompt": "Skin Rash", "completion": "Keep the affected area clean and dry. Avoid scratching. Apply soothing lotion or aloe vera gel. If rashes spread or blister, consult a dermatologist immediately."}
+{"prompt": "Acne", "completion": "Clean your face twice daily with mild cleanser. Avoid oily food and touching pimples. Use oil-free moisturizers. If acne becomes severe or leaves scars, consult a dermatologist."}
+{"prompt": "Burn", "completion": "Cool the burn under running water for 10 minutes. Do not apply ice or toothpaste. Cover lightly with a sterile bandage. Seek immediate medical care if blisters appear or burn is large."}
+{"prompt": "Dehydration", "completion": "Drink oral rehydration solutions or electrolyte water frequently. Avoid caffeine and alcohol. Rest in a cool place. Seek urgent medical attention if dizziness or confusion occurs."}
+{"prompt": "Vomiting", "completion": "Drink clear fluids like ORS or coconut water. Avoid solid food until vomiting stops. Eat light, bland food later. If vomiting continues beyond 12 hours or includes blood, consult a doctor."}
+{"prompt": "Diarrhea", "completion": "Drink plenty of fluids and ORS to prevent dehydration. Eat boiled rice or bananas. Avoid spicy foods and dairy. Consult a doctor if diarrhea continues beyond 2 days or is accompanied by fever."}
+{"prompt": "Constipation", "completion": "Increase fiber intake with fruits, vegetables, and whole grains. Drink plenty of water and do regular exercise. Avoid processed foods. If constipation persists more than a week, seek medical advice."}
+{"prompt": "Migraine", "completion": "Lie down in a dark, quiet room. Stay hydrated and avoid caffeine or stress triggers. Apply a cold compress on your forehead. If attacks are frequent, consult a neurologist."}
+{"prompt": "Chest Pain", "completion": "Rest immediately and avoid physical strain. If pain is severe, radiates to arm or jaw, or is accompanied by sweating, call emergency services — it may indicate a heart problem."}
+{"prompt": "Asthma", "completion": "Use your inhaler as prescribed and avoid dust, smoke, and strong smells. Practice breathing exercises. If you face severe breathlessness or wheezing, seek emergency medical help."}
+{"prompt": "Diabetes", "completion": "Monitor blood sugar regularly. Eat balanced meals with less sugar and carbohydrates. Exercise daily. Consult your doctor for proper medication and follow-up."}
+{"prompt": "High Blood Pressure", "completion": "Eat low-salt food, avoid stress, and exercise regularly. Take medicines on time as prescribed. Check your BP regularly and avoid smoking or alcohol."}
+{"prompt": "Low Blood Pressure", "completion": "Drink more fluids, especially water and soups. Eat small, frequent meals. Avoid standing suddenly. If dizziness persists, consult your doctor."}
+{"prompt": "Anemia", "completion": "Eat iron-rich foods like spinach, jaggery, and red meat. Take iron supplements if prescribed. Avoid tea or coffee after meals. Visit your doctor for blood tests."}
+{"prompt": "Thyroid", "completion": "Take prescribed thyroid medicine daily at the same time. Eat iodine-rich food like iodized salt. Do not skip regular check-ups."}
+{"prompt": "Obesity", "completion": "Follow a balanced diet with fewer processed foods. Exercise regularly and stay hydrated. Avoid sugary drinks. Consult a nutritionist for a custom plan."}
+{"prompt": "Hair Loss", "completion": "Eat a protein-rich diet, avoid harsh shampoos, and massage your scalp regularly. Reduce stress and ensure good sleep. Consult a dermatologist if hair loss continues."}
+{"prompt": "Dandruff", "completion": "Use anti-dandruff shampoo twice a week. Avoid oily hair products. Maintain scalp hygiene. If itching or flakes persist, consult a dermatologist."}
+{"prompt": "Insomnia", "completion": "Maintain a regular sleep schedule. Avoid caffeine, screens, and heavy meals before bedtime. Keep your room dark and quiet. Consult a doctor if sleep issues persist."}
+{"prompt": "Depression", "completion": "Talk to trusted friends or a counselor. Exercise regularly and maintain a routine. Avoid isolation. If suicidal thoughts occur, seek immediate professional help."}
+{"prompt": "Anxiety", "completion": "Practice deep breathing and meditation. Avoid caffeine and get enough rest. Stay connected with supportive people. Consult a therapist if it affects daily life."}
+{"prompt": "Dehydration", "completion": "Drink enough water throughout the day, especially in heat. Use ORS if you sweat excessively. Avoid alcohol and caffeine. Seek medical care if you feel weak or dizzy."}
+{"prompt": "Heat Stroke", "completion": "Move to a cool place, drink water or ORS, and remove excess clothing. Apply cool wet cloths on the body. If confusion or fainting occurs, call emergency help."}
+{"prompt": "Food Poisoning", "completion": "Rest, drink ORS, and avoid solid food for a while. Eat bland food later. If vomiting or diarrhea is severe or blood appears in stool, seek immediate medical care."}
+{"prompt": "Insect Bite", "completion": "Wash the area with soap and water. Apply ice or calamine lotion to reduce swelling. If there’s severe itching or difficulty breathing, get medical help immediately."}
+{"prompt": "Burning Urination", "completion": "Drink plenty of water and cranberry juice. Maintain hygiene. Avoid spicy foods. If pain or fever occurs, consult a urologist."}
+{"prompt": "Cold Sores", "completion": "Apply antiviral cream, avoid touching the sores, and maintain hygiene. Drink fluids and rest. If sores spread or reappear frequently, visit a doctor."}
+{"prompt": "Nosebleed", "completion": "Sit upright, lean forward, and pinch your nose for 10 minutes. Avoid blowing your nose. If bleeding lasts more than 15 minutes, get medical attention."}
+{"prompt": "Sinus", "completion": "Steam inhalation helps relieve blockage. Drink warm fluids and rest. Avoid exposure to cold air. Consult a doctor if headaches persist."}
+{"prompt": "Menstrual Pain", "completion": "Apply heat to the lower abdomen, drink warm fluids, and rest. Gentle exercise can help. If pain is very severe or irregular, consult a gynecologist."}
+{"prompt": "UTI", "completion": "Drink lots of water, maintain personal hygiene, and avoid holding urine. If burning or pain continues, consult a doctor for antibiotics."}
+{"prompt": "Pimples", "completion": "Clean face twice a day with mild soap. Avoid touching or popping pimples. Eat healthy food. Consult dermatologist for persistent acne."}
+{"prompt": "Cold Allergy", "completion": "Avoid cold drinks and exposure to dust. Keep warm and take antihistamines if prescribed. See doctor if breathing difficulty develops."}
+{"prompt": "Muscle Cramps", "completion": "Stretch muscles gently and drink electrolyte water. Massage affected area and rest. If cramps persist, consult a doctor."}
+{"prompt": "Fatigue", "completion": "Get enough sleep, eat balanced meals, and stay hydrated. Avoid overwork and stress. If tiredness continues, get a medical checkup."}
+{"prompt": "Sunburn", "completion": "Apply aloe vera gel or cool compress. Stay out of direct sunlight. Drink water and use sunscreen daily."}
+{"prompt": "सिर दर्द", "completion": "शांत और अंधेरे कमरे में आराम करें। पर्याप्त पानी पिएं और तेज़ रोशनी या आवाज़ से बचें। हल्की मालिश करें और ज़रूरत पड़ने पर हल्की दर्द निवारक दवा लें। यदि सिर दर्द 3 दिन से अधिक रहे या उल्टी, चक्कर या दृष्टि में समस्या हो तो तुरंत डॉक्टर से मिलें।"}
+{"prompt": "बुखार", "completion": "पर्याप्त आराम करें और खूब तरल पदार्थ पिएं। पैरासिटामोल जैसी दवा ली जा सकती है। शरीर को ठंडा रखने के लिए हल्के कपड़े पहनें। यदि तापमान 102°F से अधिक हो जाए या 3 दिन से ज़्यादा बुखार रहे, तो चिकित्सक से संपर्क करें।"}
+{"prompt": "खांसी", "completion": "गुनगुना पानी, अदरक या शहद वाली चाय पिएं। ठंडी चीज़ों और धूल से दूर रहें। आवाज़ को आराम दें। अगर खांसी एक हफ्ते से ज़्यादा बनी रहे या सांस लेने में दिक्कत हो, तो डॉक्टर से जांच करवाएं।"}
+{"prompt": "ज़ुकाम", "completion": "गर्म सूप या हर्बल चाय लें, स्टीम लें और आराम करें। ठंडी हवा या फ्रिज की चीज़ों से बचें। अगर लक्षण 7 दिनों से ज़्यादा रहें या बढ़ जाएं, तो चिकित्सक को दिखाएं।"}
+{"prompt": "गले में दर्द", "completion": "गर्म नमक वाले पानी से दिन में दो-तीन बार गरारे करें। मसालेदार खाना न खाएं और गर्म तरल पदार्थ पिएं। अगर दर्द या सूजन 3 दिन से ज़्यादा रहे, तो डॉक्टर से सलाह लें।"}
+{"prompt": "पेट दर्द", "completion": "हल्का भोजन करें, तले-भुने और मसालेदार भोजन से बचें। पर्याप्त पानी पिएं और आराम करें। अगर दर्द दो दिन से ज़्यादा रहे, या उल्टी और बुखार के साथ हो, तो तुरंत डॉक्टर को दिखाएं।"}
+{"prompt": "अपच", "completion": "छोटे-छोटे भोजन करें, जंक फूड से परहेज़ करें। भोजन के बाद हल्की सैर करें। अगर पेट भारी लगे या गैस बनी रहे, तो डॉक्टर से सलाह लें।"}
+{"prompt": "कमर दर्द", "completion": "सीधे बैठें, भारी चीज़ें न उठाएं। गर्म पानी की सिकाई करें। हल्का स्ट्रेच करें। अगर दर्द पैर तक फैले या लंबे समय तक बना रहे, तो चिकित्सक से जांच करवाएं।"}
+{"prompt": "जोड़ों का दर्द", "completion": "गर्म या ठंडी सिकाई करें, आराम करें और ज़्यादा दबाव न डालें। कैल्शियम और विटामिन-D युक्त भोजन खाएं। अगर सूजन या जकड़न बढ़े, तो डॉक्टर से मिलें।"}
+{"prompt": "दांत दर्द", "completion": "गर्म नमक पानी से कुल्ला करें। बहुत गरम या ठंडी चीज़ों से बचें। गाल पर ठंडी सिकाई करें। अगर दर्द 24 घंटे से ज़्यादा रहे, तो डेंटिस्ट से जांच कराएं।"}
+{"prompt": "आंख दर्द", "completion": "आंखों को आराम दें और स्क्रीन से दूरी रखें। साफ पानी से धोएं। यदि जलन या धुंधलापन बना रहे, तो नेत्र चिकित्सक से मिलें।"}
+{"prompt": "कान दर्द", "completion": "कान में कुछ न डालें। बाहर से हल्की गर्म सिकाई करें। अगर कान से तरल निकले या सुनाई कम हो, तो ईएनटी डॉक्टर से जांच कराएं।"}
+{"prompt": "एलर्जी", "completion": "धूल-धुएं और पराग से दूर रहें। डॉक्टर द्वारा दी गई दवा लें। अगर दाने, सूजन या सांस लेने में दिक्कत हो, तो तुरंत चिकित्सक से संपर्क करें।"}
+{"prompt": "त्वचा पर दाने", "completion": "त्वचा को साफ और सूखा रखें। खुजली न करें। एलोवेरा जेल या हल्की क्रीम लगाएं। अगर दाने फैलें या जलन बढ़े, तो डर्मेटोलॉजिस्ट से मिलें।"}
+{"prompt": "मुंहासे", "completion": "चेहरे को दिन में दो बार हल्के फेसवॉश से धोएं। तैलीय खाना और चेहरे को बार-बार छूने से बचें। अगर मुंहासे बार-बार हों या निशान छोड़ें, तो डॉक्टर से सलाह लें।"}
+{"prompt": "जलना", "completion": "जली हुई जगह को 10 मिनट तक ठंडे पानी से धोएं। बर्फ या टूथपेस्ट न लगाएं। साफ पट्टी बांधें। अगर छाले बनें या जलन ज़्यादा हो, तो डॉक्टर को दिखाएं।"}
+{"prompt": "उल्टी", "completion": "पानी या नारियल पानी जैसे तरल पदार्थ लें। जब तक उल्टी बंद न हो जाए ठोस भोजन से बचें। अगर उल्टी लगातार हो या खून आए, तो चिकित्सक से संपर्क करें।"}
+{"prompt": "दस्त", "completion": "ओआरएस या नींबू-पानी पिएं ताकि शरीर में पानी की कमी न हो। हल्का भोजन जैसे उबला चावल खाएं। अगर दस्त 2 दिन से ज़्यादा रहें या बुखार के साथ हों, तो डॉक्टर को दिखाएं।"}
+{"prompt": "कब्ज़", "completion": "फल, हरी सब्जियां और फाइबर-युक्त भोजन खाएं। खूब पानी पिएं और रोज़ व्यायाम करें। अगर कब्ज़ एक हफ्ते से ज़्यादा रहे, तो चिकित्सक से सलाह लें।"}
+{"prompt": "माइग्रेन", "completion": "अंधेरे और शांत कमरे में आराम करें। सिर पर ठंडी पट्टी रखें। तनाव, तेज़ रोशनी और तेज़ आवाज़ से बचें। अगर बार-बार सिर दर्द होता है, तो न्यूरोलॉजिस्ट से संपर्क करें।"}
+{"prompt": "छाती में दर्द", "completion": "तुरंत आराम करें और गहरी सांस लें। अगर दर्द हाथ या जबड़े तक जाए या पसीना आए, तो यह दिल की समस्या हो सकती है—तुरंत आपातकालीन मदद लें।"}
+{"prompt": "अस्थमा", "completion": "डॉक्टर द्वारा दी गई इन्हेलर का नियमित उपयोग करें। धूल, धुआं और तेज़ गंध से बचें। अगर सांस फूलने लगे या सीटी जैसी आवाज़ आए, तो तुरंत डॉक्टर से मिलें।"}
+{"prompt": "मधुमेह", "completion": "रक्त-शर्करा की जांच नियमित करें। मीठा और चर्बी वाला भोजन सीमित करें। रोज़ाना व्यायाम करें और डॉक्टर द्वारा बताई दवा समय पर लें।"}
+{"prompt": "उच्च रक्तचाप", "completion": "नमक कम खाएं, तनाव से बचें और नियमित व्यायाम करें। धूम्रपान और शराब से दूर रहें। बीपी नियमित जांचते रहें।"}
+{"prompt": "कम रक्तचाप", "completion": "पर्याप्त पानी और सूप पिएं। छोटे-छोटे अंतराल पर भोजन करें। अचानक खड़े न हों। अगर चक्कर आते रहें, तो डॉक्टर को दिखाएं।"}
+{"prompt": "खून की कमी", "completion": "पालक, गुड़, अनार और लाल मांस खाएं। डॉक्टर द्वारा दी गई आयरन की दवा लें। भोजन के बाद चाय या कॉफी न पिएं।"}
+{"prompt": "थायरॉयड", "completion": "थायरॉयड की दवा रोज़ एक ही समय पर लें। आयोडीन युक्त नमक का सेवन करें। नियमित जांच करवाते रहें।"}
+{"prompt": "मोटापा", "completion": "संतुलित आहार लें और जंक फूड से दूर रहें। रोज़ाना व्यायाम करें। मीठे पेय न लें। पोषण विशेषज्ञ की सलाह लें।"}
+{"prompt": "बाल झड़ना", "completion": "प्रोटीन-युक्त भोजन करें, सिर की मालिश करें और कठोर शैंपू से बचें। तनाव कम करें और नींद पूरी लें। अगर बाल झड़ना लगातार हो, तो डॉक्टर से मिलें।"}
+{"prompt": "रूसी", "completion": "एंटी-डैंड्रफ शैंपू हफ्ते में दो बार लगाएं। बालों में तेल ज़्यादा न लगाएं। सिर की स्वच्छता बनाए रखें।"}
+{"prompt": "अनिद्रा", "completion": "सोने का नियमित समय तय करें। कैफीन और मोबाइल स्क्रीन से बचें। कमरा शांत और अंधेरा रखें। अगर नींद न आए, तो डॉक्टर से सलाह लें।"}
+{"prompt": "डिप्रेशन", "completion": "दोस्तों या परिवार से बात करें। रोज़ाना व्यायाम करें और खुद को व्यस्त रखें। नकारात्मक सोच से दूर रहें। अगर आत्महत्या के विचार आएं, तो तुरंत पेशेवर मदद लें।"}
+{"prompt": "घबराहट", "completion": "गहरी सांसें लें, ध्यान करें और पर्याप्त नींद लें। कैफीन से दूर रहें। अगर चिंता रोज़मर्रा के कामों को प्रभावित करे, तो मनोवैज्ञानिक से मिलें।"}
+{"prompt": "थकान", "completion": "भरपूर नींद लें, पौष्टिक आहार खाएं और पानी पिएं। तनाव कम करें। अगर कमजोरी लगातार बनी रहे, तो डॉक्टर से जांच करवाएं।"}
+{"prompt": "धूप लगना", "completion": "ठंडी जगह जाएं, पानी या ओआरएस पिएं। शरीर पर ठंडी पट्टी रखें। अगर चक्कर या बेहोशी महसूस हो, तो तुरंत अस्पताल जाएं।"}
+{"prompt": "खाना विषाक्तता", "completion": "आराम करें, ओआरएस पिएं और हल्का भोजन लें। अगर उल्टी, दस्त या पेट दर्द बढ़े, तो चिकित्सक से तुरंत संपर्क करें।"}
+{"prompt": "कीड़े का काटना", "completion": "कटी जगह को साबुन-पानी से धोएं। ठंडी सिकाई करें और क्रीम लगाएं। अगर सूजन या सांस लेने में परेशानी हो, तो डॉक्टर से मिलें।"}
+{"prompt": "मूत्र जलन", "completion": "अधिक पानी और क्रैनबेरी जूस पिएं। साफ-सफाई रखें और मसालेदार खाना न खाएं। अगर दर्द या बुखार हो, तो यूरोलॉजिस्ट से मिलें।"}
+{"prompt": "नाक से खून", "completion": "सीधे बैठें, आगे झुकें और नाक को 10 मिनट दबाकर रखें। नाक न फूंके। अगर खून 15 मिनट से ज़्यादा बहे, तो डॉक्टर को दिखाएं।"}
+{"prompt": "साइनस", "completion": "स्टीम लें, गर्म तरल पदार्थ पिएं और आराम करें। ठंडी हवा से बचें। अगर सिर दर्द लगातार रहे, तो डॉक्टर से जांच करवाएं।"}
+{"prompt": "मासिक धर्म दर्द", "completion": "निचले पेट पर गर्म पानी की बोतल रखें, गर्म पेय लें और आराम करें। अगर दर्द बहुत तेज़ हो या पीरियड्स अनियमित हों, तो स्त्री रोग विशेषज्ञ से मिलें।"}
+{"prompt": "मांसपेशियों में ऐंठन", "completion": "हल्का स्ट्रेच करें और इलेक्ट्रोलाइट वाला पानी पिएं। प्रभावित हिस्से की मालिश करें। अगर ऐंठन बार-बार हो, तो चिकित्सक से जांच कराएं।"}
+{"prompt": "थकावट", "completion": "पूरा आराम करें, स्वस्थ आहार लें और पर्याप्त पानी पिएं। तनाव कम करें। अगर ऊर्जा की कमी बनी रहे, तो डॉक्टर को दिखाएं।"}
+{"prompt": "धूप से झुलसना", "completion": "एलोवेरा जेल या ठंडी पट्टी लगाएं। धूप से बचें और पानी ज़्यादा पिएं। बाहर जाते समय सनस्क्रीन लगाएं।"}
+{"prompt": "हृदय दर्द", "completion": "छाती में भारीपन या दर्द हो तो तुरंत आराम करें। दर्द अगर बाईं भुजा या जबड़े तक जाए, तो यह हार्ट अटैक का संकेत हो सकता है—एम्बुलेंस बुलाएं।"}
+{"prompt": "सर्दी से एलर्जी", "completion": "ठंडे पेय, धूल और धुएं से दूर रहें। डॉक्टर द्वारा दी गई दवा लें। अगर सांस फूलने लगे, तो तुरंत मदद लें।"}
+{"prompt": "थकावट और कमजोरी", "completion": "नींद पूरी करें, संतुलित आहार लें और पानी पिएं। अगर कमजोरी लंबे समय तक बनी रहे, तो डॉक्टर से जांच करवाएं।"}
+{"prompt": "गर्मी लगना", "completion": "छांव में रहें, पानी या नारियल पानी पिएं और शरीर को ठंडा रखें। बेहोशी या तेज़ बुखार हो, तो तुरंत अस्पताल जाएं।"}
+{"prompt": "తలనొప్పి", "completion": "శాంతమైన గదిలో విశ్రాంతి తీసుకోండి, ఎక్కువ నీరు త్రాగండి, శబ్దం మరియు ప్రకాశవంతమైన వెలుతురు నుండి దూరంగా ఉండండి. తేలికపాటి నొప్పి నివారక మందు తీసుకోవచ్చు. తలనొప్పి 3 రోజులకు మించి కొనసాగితే లేదా కంటి చూపులో మార్పులు, వాంతులు ఉంటే వైద్యుడిని సంప్రదించండి."}
+{"prompt": "జ్వరం", "completion": "పారాసిటమాల్ వంటి మందు తీసుకోండి, తగినంత నీరు త్రాగండి, విశ్రాంతి తీసుకోండి. శరీర ఉష్ణోగ్రత 102°F కంటే ఎక్కువైతే లేదా 3 రోజులకు మించి కొనసాగితే వెంటనే వైద్యుడిని సంప్రదించండి."}
+{"prompt": "దగ్గు", "completion": "గرم నీటితో గార్గిల్ చేయండి, తేనె లేదా అల్లం టీ తాగండి. చల్లని పదార్థాలు మరియు ధూళి నుండి దూరంగా ఉండండి. దగ్గు వారం కంటే ఎక్కువ కొనసాగితే లేదా శ్వాస తీసుకోవడంలో ఇబ్బంది ఉంటే వైద్యుడిని సంప్రదించండి."}
+{"prompt": "జలుబు", "completion": "వెచ్చని సూప్ లేదా టీ తాగండి, ఆవిరి పీల్చండి మరియు విశ్రాంతి తీసుకోండి. చల్లని వాతావరణం నుండి దూరంగా ఉండండి. లక్షణాలు వారం కంటే ఎక్కువ కొనసాగితే వైద్యుడిని సంప్రదించండి."}
+{"prompt": "గొంతు నొప్పి", "completion": "ఉప్పు కలిపిన వేడి నీటితో రోజుకు రెండు మూడు సార్లు గార్గిల్ చేయండి. వేడి ద్రవాలు తాగండి మరియు మసాలా పదార్థాలను తగ్గించండి. నొప్పి లేదా ఉబ్బరం 3 రోజులకు మించి ఉంటే వైద్యుడిని సంప్రదించండి."}
+{"prompt": "కడుపు నొప్పి", "completion": "తేలికపాటి ఆహారం తీసుకోండి, తగినంత నీరు త్రాగండి. వేడి ప్యాక్ ఉపయోగించండి. తీవ్రమైన నొప్పి, వాంతులు లేదా జ్వరం ఉంటే వెంటనే వైద్యుడిని సంప్రదించండి."}
+{"prompt": "అజీర్ణం", "completion": "చిన్న మొత్తంలో తేలికపాటి ఆహారం తినండి, జంక్ ఫుడ్ మరియు చల్లని పానీయాలు నివారించండి. భోజనం తర్వాత తేలికగా నడవండి. తరచుగా అజీర్ణం ఉంటే వైద్యుడిని సంప్రదించండి."}
+{"prompt": "నడుం నొప్పి", "completion": "భారీ వస్తువులు ఎత్తడం మానండి, వెచ్చని నీటి ప్యాక్ వేసుకోండి. సరిగ్గా కూర్చోవడం అలవాటు చేసుకోండి. నొప్పి కాళ్లకు వ్యాపిస్తే వైద్యుడిని సంప్రదించండి."}
+{"prompt": "సంధి నొప్పి", "completion": "వెచ్చని లేదా చల్లని ప్యాక్ ఉపయోగించండి, విశ్రాంతి తీసుకోండి. కాల్షియం, విటమిన్ D ఉన్న ఆహారం తినండి. ఉబ్బరం లేదా కదలడంలో ఇబ్బంది ఉంటే డాక్టర్‌ని సంప్రదించండి."}
+{"prompt": "పళ్ళ నొప్పి", "completion": "ఉప్పు నీటితో గార్గిల్ చేయండి. ఎక్కువ చల్లని లేదా వేడి ఆహారాలు తినకండి. గాలి వేడి నీటి కాంప్రెస్ చేయండి. నొప్పి ఒకరోజు కంటే ఎక్కువ కొనసాగితే డెంటిస్ట్‌ని కలవండి."}
+{"prompt": "కళ్ళ నొప్పి", "completion": "తాజా చల్లని నీటితో కళ్ళు కడగండి. స్క్రీన్ ముందు ఎక్కువ సమయం గడపకండి. ఎర్రగా ఉండడం లేదా చూపు తగ్గడం కొనసాగితే ఆప్టాల్మాలజిస్ట్‌ని సంప్రదించండి."}
+{"prompt": "చెవి నొప్పి", "completion": "చెవిలో ఏదైనా వస్తువు వేయకండి. బయట నుండి వేడి నీటితో ప్యాక్ చేయండి. చెవిలో ద్రవం వస్తే లేదా వినికిడి తగ్గితే ENT డాక్టర్‌ని కలవండి."}
+{"prompt": "అలెర్జీ", "completion": "ధూళి, పొగ మరియు పరాగ ధూళి నుండి దూరంగా ఉండండి. డాక్టర్ సూచించిన మందు తీసుకోండి. దద్దుర్లు, ఉబ్బరం లేదా శ్వాస ఇబ్బంది ఉంటే వెంటనే వైద్య సహాయం పొందండి."}
+{"prompt": "చర్మం దద్దుర్లు", "completion": "చర్మాన్ని శుభ్రంగా ఉంచండి. తగిన మాయిశ్చరైజర్ ఉపయోగించండి. మురికి లేదా ఖజ్జు చేస్తే నివారించండి. చర్మ సమస్యలు ఎక్కువైతే డర్మటాలజిస్ట్‌ని సంప్రదించండి."}
+{"prompt": "మొటిమలు", "completion": "రోజుకు రెండు సార్లు ముఖం కడగండి. తైల పదార్థాలు మరియు జంక్ ఫుడ్ తగ్గించండి. మొటిమలు తరచుగా వస్తే వైద్యుడి సలహా తీసుకోండి."}
+{"prompt": "కాలిన గాయాలు", "completion": "గాయం అయిన ప్రదేశాన్ని చల్లని నీటితో కడగండి. బైట బట్టీ లేదా టూత్‌పేస్ట్ ఉపయోగించవద్దు. శుభ్రమైన బాండేజ్ వేసుకోండి. తీవ్రమైన గాయం అయితే వైద్యుడిని సంప్రదించండి."}
+{"prompt": "వాంతులు", "completion": "తగినంత నీరు, కొబ్బరి నీరు లేదా ఓఆర్‌ఎస్ తాగండి. వాంతులు ఆగే వరకు ఘన ఆహారం తీసుకోకండి. వాంతులు ఆగకపోతే లేదా రక్తం వస్తే డాక్టర్‌ని కలవండి."}
+{"prompt": "విసర్జన సమస్య", "completion": "ఓఆర్‌ఎస్ లేదా నిమ్మరసం తాగండి. తేలికపాటి ఆహారం తీసుకోండి. విసర్జన 2 రోజులకు మించి ఉంటే లేదా జ్వరం వస్తే వైద్యుడిని సంప్రదించండి."}
+{"prompt": "మలబద్ధకం", "completion": "ఫైబర్ ఉన్న ఆహారం తీసుకోండి, పండ్లు మరియు కూరగాయలు ఎక్కువగా తినండి. రోజుకు తగినంత నీరు తాగండి. సమస్య కొనసాగితే వైద్యుడి సలహా తీసుకోండి."}
+{"prompt": "మైగ్రేన్", "completion": "శాంతమైన మరియు చీకటి గదిలో విశ్రాంతి తీసుకోండి. చల్లని ప్యాక్ ఉపయోగించండి. ఒత్తిడి మరియు గట్టిగా శబ్దం ఉన్న ప్రదేశాలు నివారించండి. తరచుగా వస్తే న్యూరాలజిస్ట్‌ని సంప్రదించండి."}
+{"prompt": "చాతీ నొప్పి", "completion": "తక్షణం విశ్రాంతి తీసుకోండి. నొప్పి చేతికి లేదా దవడకు వెళ్తే, లేదా చెమట వస్తే, ఇది గుండె సమస్య కావచ్చు — వెంటనే ఆసుపత్రికి వెళ్లండి."}
+{"prompt": "అస్తమా", "completion": "డాక్టర్ సూచించిన ఇన్హేలర్‌ను ఉపయోగించండి. ధూళి, పొగ మరియు సువాసనలు నివారించండి. శ్వాస తీసుకోవడంలో ఇబ్బంది ఉంటే వెంటనే వైద్యుడిని కలవండి."}
+{"prompt": "మధుమేహం", "completion": "రక్తంలో చక్కెర స్థాయిలు క్రమం తప్పకుండా పరిశీలించండి. చక్కెర మరియు కొవ్వు పదార్థాలు తగ్గించండి. వ్యాయామం చేయండి మరియు మందులు సమయానికి తీసుకోండి."}
+{"prompt": "అధిక రక్తపోటు", "completion": "ఉప్పు తగ్గించండి, వ్యాయామం చేయండి, ఒత్తిడి తగ్గించండి. ధూమపానం మరియు మద్యం మానండి. రక్తపోటు క్రమం తప్పకుండా పరీక్షించండి."}
+{"prompt": "తక్కువ రక్తపోటు", "completion": "తగినంత నీరు తాగండి. తేలికపాటి ఆహారం చిన్న మొత్తంలో తరచుగా తీసుకోండి. ఒక్కసారిగా లేచే అలవాటు మానండి. తల తిరుగుడు కొనసాగితే వైద్యుడిని సంప్రదించండి."}
+{"prompt": "రక్తహీనత", "completion": "పాలకూర, బెల్లం, దానిమ్మ మరియు మాంసం వంటి ఐరన్ ఉన్న ఆహారం తీసుకోండి. వైద్యుడు సూచించిన మందులు తీసుకోండి. భోజనం తరువాత టీ లేదా కాఫీ తాగకండి."}
+{"prompt": "థైరాయిడ్", "completion": "మందులు ప్రతిరోజు ఒకే సమయానికి తీసుకోండి. ఐయోడిన్ ఉన్న ఉప్పు వాడండి. రక్త పరీక్షలు క్రమం తప్పకుండా చేయించుకోండి."}
+{"prompt": "అధిక బరువు", "completion": "సమతుల ఆహారం తీసుకోండి, జంక్ ఫుడ్ నివారించండి. ప్రతిరోజు వ్యాయామం చేయండి. మధుర పదార్థాలు తగ్గించండి. డైటీషియన్ సలహా తీసుకోండి."}
+{"prompt": "జుట్టు ఊడడం", "completion": "ప్రోటీన్ ఉన్న ఆహారం తీసుకోండి, తల మసాజ్ చేయండి. గట్టిగా ఉన్న షాంపూలు వాడకండి. ఒత్తిడి తగ్గించండి. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించండి."}
+{"prompt": "రూసీ", "completion": "ఎంటి-డాండ్రఫ్ షాంపూ వారం లో రెండుసార్లు వాడండి. తల శుభ్రంగా ఉంచండి. అధిక నూనె రాయవద్దు."}
+{"prompt": "నిద్రలేమి", "completion": "నియమిత సమయానికి నిద్రపోవడం అలవాటు చేసుకోండి. క్యాఫీన్ తగ్గించండి, ఫోన్ స్క్రీన్‌ లైట్‌ నుండి దూరంగా ఉండండి. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించండి."}
+{"prompt": "ఉద్వేగం", "completion": "స్నేహితులు లేదా కుటుంబంతో మాట్లాడండి. వ్యాయామం చేయండి. సానుకూల ఆలోచనలు ఉంచుకోండి. తీవ్రమైన మానసిక ఒత్తిడి ఉంటే సైకాలజిస్ట్‌ని కలవండి."}
+{"prompt": "చింత", "completion": "లోతైన శ్వాసలు తీసుకోండి, ధ్యానం చేయండి. తగిన నిద్ర తీసుకోండి. కాఫీ తగ్గించండి. చింత ఎక్కువైతే వైద్య సహాయం పొందండి."}
+{"prompt": "ఆలస్యం", "completion": "తగిన నిద్ర తీసుకోండి, ఆరోగ్యకరమైన ఆహారం తినండి. నీరు ఎక్కువ త్రాగండి. బలహీనత ఎక్కువగా ఉంటే డాక్టర్‌ని సంప్రదించండి."}
+{"prompt": "సూర్యదాహం", "completion": "చల్లటి ప్రదేశంలో ఉండండి, నీరు త్రాగండి. చర్మంపై చల్లని ప్యాక్ వేయండి. తల తిరుగుడు లేదా బలహీనత ఉంటే ఆసుపత్రికి వెళ్లండి."}
+{"prompt": "ఆహార విషబాధ", "completion": "ఆరామం తీసుకోండి, ఓఆర్‌ఎస్ తాగండి, తేలికపాటి ఆహారం తీసుకోండి. వాంతులు లేదా జ్వరం పెరిగితే వైద్యుడిని సంప్రదించండి."}
+{"prompt": "కీటక కాటు", "completion": "కాటు ప్రాంతాన్ని సబ్బు నీటితో కడగండి. చల్లని ప్యాక్ వాడండి. ఉబ్బరం లేదా శ్వాసలో ఇబ్బంది ఉంటే వెంటనే డాక్టర్‌ని కలవండి."}
+{"prompt": "మూత్రం మండుట", "completion": "తగినంత నీరు మరియు కొబ్బరి నీరు తాగండి. మసాలా పదార్థాలు తగ్గించండి. మూత్రంలో నొప్పి లేదా జ్వరం ఉంటే యూరాలజిస్ట్‌ని సంప్రదించండి."}
+{"prompt": "ముక్కు రక్తస్రావం", "completion": "నేరుగా కూర్చోండి, ముందుకు వంగి 10 నిమిషాలు ముక్కు నొక్కి ఉంచండి. ముక్కు ఊదకండి. రక్తం ఆగకపోతే వైద్యుడిని సంప్రదించండి."}
+{"prompt": "సైనస్", "completion": "ఆవిరి పీల్చండి, వేడి ద్రవాలు తాగండి, విశ్రాంతి తీసుకోండి. చల్లని వాతావరణం నివారించండి. తలనొప్పి కొనసాగితే వైద్యుడిని కలవండి."}
+{"prompt": "మాసిక నొప్పి", "completion": "వెచ్చని నీటి బ్యాగ్ ఉపయోగించండి, వేడి టీ తాగండి. విశ్రాంతి తీసుకోండి. నొప్పి ఎక్కువగా ఉంటే గైనకాలజిస్ట్‌ని సంప్రదించండి."}
+{"prompt": "మండుట నొప్పులు", "completion": "తేలికపాటి వ్యాయామం చేయండి, ఎలక్ట్రోలైట్ పానీయాలు తాగండి. నొప్పి తరచుగా వస్తే వైద్యుడిని సంప్రదించండి."}
+{"prompt": "చర్మం మండుట", "completion": "అలోవెరా జెల్ రాయండి, చల్లని నీటితో శుభ్రం చేయండి. బహిరంగ సూర్యరశ్మి నివారించండి. తీవ్రమైన దహనం ఉంటే డాక్టర్‌ని కలవండి."}
+{"prompt": "హృదయ నొప్పి", "completion": "చాతీ నొప్పి బలంగా ఉంటే వెంటనే ఆగి విశ్రాంతి తీసుకోండి. నొప్పి చేతికి లేదా దవడకు వెళ్తే, ఇది గుండె సమస్య కావచ్చు—తక్షణం ఆసుపత్రికి వెళ్లండి."}
+{"prompt": "చల్లదనం అలెర్జీ", "completion": "చల్లని వాతావరణం, ధూళి మరియు పొగ నుండి దూరంగా ఉండండి. డాక్టర్ ఇచ్చిన మందులు తీసుకోండి. శ్వాస తీసుకోవడంలో ఇబ్బంది ఉంటే వెంటనే వైద్యుడిని సంప్రదించండి."}
+{"prompt": "శరీర బలహీనత", "completion": "పోషకాహారం తీసుకోండి, నీరు ఎక్కువ త్రాగండి, సరైన నిద్ర తీసుకోండి. బలహీనత కొనసాగితే వైద్యుడిని కలవండి."}
+{"prompt": "వేడిమి దెబ్బ", "completion": "నీరు లేదా ఓఆర్‌ఎస్ తాగండి, చల్లటి ప్రదేశంలో విశ్రాంతి తీసుకోండి. అధిక జ్వరం లేదా చైతన్యం కోల్పోతే వెంటనే ఆసుపత్రికి తీసుకెళ్లండి."}
+{"prompt": "डोकेदुखी", "completion": "शांत आणि अंधाऱ्या ठिकाणी विश्रांती घ्या. पुरेसे पाणी प्या. खूप प्रकाश किंवा आवाज टाळा. गरज असल्यास पॅरासिटामॉल घ्या. तीन दिवसांपेक्षा जास्त त्रास झाला किंवा उलट्या, अस्पष्ट दिसणे असेल तर डॉक्टरांचा सल्ला घ्या."}
+{"prompt": "ताप", "completion": "पुरेसे पाणी प्या आणि आराम करा. कपाळावर थंड पाण्याची पट्टी ठेवा. पॅरासिटामॉल घ्या. ताप 102°F पेक्षा जास्त असेल किंवा तीन दिवसांपेक्षा जास्त टिकल्यास डॉक्टरांना भेटा."}
+{"prompt": "खोकला", "completion": "कोमट पाण्याने गुळण्या करा, मध-आलं चहा प्या. धूळ आणि थंड पदार्थांपासून दूर राहा. खोकला एक आठवड्यापेक्षा जास्त टिकल्यास किंवा श्वास घेण्यास त्रास होत असल्यास डॉक्टरांचा सल्ला घ्या."}
+{"prompt": "सर्दी", "completion": "उबदार सूप किंवा चहा प्या, वाफ घ्या, पुरेशी विश्रांती घ्या. थंड वातावरण टाळा. लक्षणे वाढल्यास डॉक्टरांचा सल्ला घ्या."}
+{"prompt": "घशात खवखव", "completion": "मीठाच्या कोमट पाण्याने गुळण्या करा. गरम द्रव पदार्थ घ्या. मसालेदार अन्न टाळा. त्रास तीन दिवसांपेक्षा जास्त टिकल्यास डॉक्टरांना भेटा."}
+{"prompt": "पोटदुखी", "completion": "हलका आहार घ्या, पुरेसे पाणी प्या. गरम पाण्याची पिशवी पोटावर ठेवा. तीव्र वेदना, उलट्या किंवा ताप असल्यास डॉक्टरांचा सल्ला घ्या."}
+{"prompt": "अपचन", "completion": "थोडं-थोडं आणि हलकं अन्न खा. तेलकट आणि जंक फूड टाळा. जेवणानंतर थोडं चालावं. वारंवार अपचन होत असल्यास डॉक्टरांचा सल्ला घ्या."}
+{"prompt": "कंबरदुखी", "completion": "जड वस्तू उचलू नका, उबदार पाण्याची पट्टी ठेवा. योग्य आसनात बसा. वेदना पायाकडे पसरल्यास डॉक्टरांना भेटा."}
+{"prompt": "संधिवात", "completion": "गरम किंवा थंड पॅक लावा, विश्रांती घ्या. कॅल्शियम व व्हिटॅमिन Dयुक्त आहार घ्या. सांधे सुजल्यास किंवा हालचाल अवघड झाल्यास डॉक्टरांना भेटा."}
+{"prompt": "दातदुखी", "completion": "मीठाच्या कोमट पाण्याने गुळण्या करा. खूप गरम किंवा थंड अन्न टाळा. वेदना एक दिवसापेक्षा जास्त टिकल्यास दंतवैद्यांना भेटा."}
+{"prompt": "डोळ्यांची जळजळ", "completion": "थंड पाण्याने डोळे धुवा. स्क्रीनकडे दीर्घकाळ पाहणे टाळा. लालसरपणा किंवा दिसण्यात बदल झाल्यास नेत्रतज्ज्ञांचा सल्ला घ्या."}
+{"prompt": "कान दुखणे", "completion": "कानात काहीही घालू नका. बाहेरून कोमट पाण्याची पट्टी लावा. द्रव बाहेर येत असल्यास किंवा ऐकण्यात त्रास असल्यास डॉक्टरांना भेटा."}
+{"prompt": "अॅलर्जी", "completion": "धूळ, धूर व परागकणांपासून दूर राहा. डॉक्टरांनी सांगितलेली औषधे घ्या. सूज, खाज किंवा श्वास घेण्यास त्रास झाल्यास त्वरित वैद्यकीय मदत घ्या."}
+{"prompt": "त्वचेवर पुरळ", "completion": "त्वचा स्वच्छ ठेवा, योग्य मॉइश्चरायझर वापरा. खाजवू नका. पुरळ वाढल्यास त्वचारोगतज्ज्ञांचा सल्ला घ्या."}
+{"prompt": "मुरुम", "completion": "चेहरा दिवसातून दोनदा धुवा. तेलकट पदार्थ व जंक फूड टाळा. वारंवार मुरुम होत असल्यास डॉक्टरांचा सल्ला घ्या."}
+{"prompt": "जळणे", "completion": "जळालेल्या भागावर थंड पाणी घाला. टूथपेस्ट लावू नका. स्वच्छ पट्टी बांधा. तीव्र जखम असल्यास डॉक्टरांना भेटा."}
+{"prompt": "ओकाऱ्या", "completion": "पुरेसे पाणी किंवा ओआरएस घ्या. ओकाऱ्या थांबेपर्यंत जड अन्न खाऊ नका. ओकाऱ्या थांबत नसल्यास किंवा रक्त दिसल्यास डॉक्टरांना भेटा."}
+{"prompt": "जुलाब", "completion": "ओआरएस किंवा लिंबूपाणी प्या. हलका आहार घ्या. तीन दिवसांपेक्षा जास्त त्रास असल्यास डॉक्टरांचा सल्ला घ्या."}
+{"prompt": "बद्धकोष्ठता", "completion": "फायबरयुक्त आहार, फळे, भाज्या खा. रोज पुरेसे पाणी प्या. त्रास कायम राहिल्यास डॉक्टरांना भेटा."}
+{"prompt": "मायग्रेन", "completion": "अंधाऱ्या, शांत जागेत विश्रांती घ्या. थंड पॅक लावा. ताण, तेज आवाज आणि तीव्र प्रकाश टाळा. वारंवार अटॅक होत असल्यास न्युरोलॉजिस्टला भेटा."}
+{"prompt": "छातीत दुखणे", "completion": "ताबडतोब विश्रांती घ्या. वेदना हात किंवा जबड्यात जात असल्यास हे हृदयाशी संबंधित असू शकते — त्वरित रुग्णालयात जा."}
+{"prompt": "दमा", "completion": "डॉक्टरांनी सांगितलेला इनहेलर वापरा. धूळ, धूर आणि सुगंधी पदार्थ टाळा. श्वास घेण्यास त्रास झाल्यास त्वरित वैद्यकीय मदत घ्या."}
+{"prompt": "मधुमेह", "completion": "रक्तातील साखर नियमित तपासा. साखर व तेलकट पदार्थ टाळा. व्यायाम करा आणि औषधे वेळेवर घ्या."}
+{"prompt": "उच्च रक्तदाब", "completion": "मीठ कमी घ्या, व्यायाम करा, ताण टाळा. धूम्रपान व मद्यपान सोडा. नियमित रक्तदाब तपासा."}
+{"prompt": "कमी रक्तदाब", "completion": "पुरेसे पाणी प्या. थोडं-थोडं आणि वारंवार खा. अचानक उभं राहू नका. चक्कर येत राहिल्यास डॉक्टरांचा सल्ला घ्या."}
+{"prompt": "रक्ताल्पता", "completion": "पालक, गूळ, डाळिंब, मांस यासारखे लोखंडयुक्त अन्न खा. डॉक्टरांनी सांगितलेले सप्लिमेंट घ्या. जेवणानंतर चहा-कॉफी टाळा."}
+{"prompt": "थायरॉईड", "completion": "औषधे रोज ठरलेल्या वेळी घ्या. आयोडीनयुक्त मीठ वापरा. रक्त तपासणी नियमित करा."}
+{"prompt": "लठ्ठपणा", "completion": "संतुलित आहार घ्या, जंक फूड टाळा. रोज चालणे किंवा व्यायाम करा. साखरेचे पदार्थ कमी घ्या."}
+{"prompt": "केस गळणे", "completion": "प्रोटीनयुक्त आहार घ्या, डोक्याला मसाज करा. कठोर शॅम्पू टाळा. ताण कमी करा. त्रास वाढल्यास डॉक्टरांचा सल्ला घ्या."}
+{"prompt": "कोंडा", "completion": "अँटी-डँड्रफ शॅम्पू आठवड्यातून दोनदा वापरा. डोकं स्वच्छ ठेवा. जास्त तेल लावू नका."}
+{"prompt": "निद्रानाश", "completion": "ठरलेल्या वेळी झोपायला जा. मोबाईल-टीव्हीचा वापर कमी करा. कॅफिन टाळा. समस्या वाढल्यास डॉक्टरांचा सल्ला घ्या."}
+{"prompt": "नैराश्य", "completion": "जवळच्या व्यक्तींशी बोला, सकारात्मक रहा. नियमित व्यायाम करा. गंभीर नैराश्य असल्यास मानसोपचारतज्ज्ञांना भेटा."}
+{"prompt": "चिंता", "completion": "दीर्घ श्वास घ्या, ध्यान करा. पुरेशी झोप घ्या. कॅफिन कमी घ्या. ताण वाढल्यास डॉक्टरांचा सल्ला घ्या."}
+{"prompt": "थकवा", "completion": "पुरेशी झोप घ्या, पौष्टिक आहार घ्या. भरपूर पाणी प्या. थकवा सतत राहिल्यास डॉक्टरांचा सल्ला घ्या."}
+{"prompt": "उन्हामुळे त्रास", "completion": "छायेत विश्रांती घ्या, पाणी किंवा ओआरएस प्या. ताप, चक्कर किंवा बेशुद्धी आल्यास त्वरित रुग्णालयात जा."}
+{"prompt": "अन्न विषबाधा", "completion": "ओआरएस प्या, हलका आहार घ्या. जुलाब किंवा उलट्या वाढल्यास डॉक्टरांचा सल्ला घ्या."}
+{"prompt": "किडा चावणे", "completion": "चावलेले ठिकाण साबण-पाण्याने धुवा. थंड पॅक लावा. सूज वाढल्यास किंवा श्वास घेण्यात त्रास झाल्यास डॉक्टरांना भेटा."}
+{"prompt": "लघवी करताना जळजळ", "completion": "जास्त पाणी, नारळपाणी प्या. मसालेदार अन्न कमी घ्या. ताप किंवा वेदना असल्यास युरोलॉजिस्टचा सल्ला घ्या."}
+{"prompt": "नाकातून रक्त येणे", "completion": "सरळ बसा, पुढे वाका, नाक दहा मिनिटे हलके दाबून ठेवा. रक्त थांबत नसेल तर डॉक्टरांना भेटा."}
+{"prompt": "सायनस", "completion": "वाफ घ्या, गरम द्रव प्या, विश्रांती घ्या. थंड हवा टाळा. डोकेदुखी राहिल्यास डॉक्टरांचा सल्ला घ्या."}
+{"prompt": "मासिक पाळीतील वेदना", "completion": "गरम पाण्याची पिशवी ठेवा, गरम चहा प्या. विश्रांती घ्या. वेदना वाढल्यास स्त्रीरोगतज्ज्ञांना भेटा."}
+{"prompt": "स्नायूदुखी", "completion": "हलका व्यायाम करा, गरम पाण्याची पट्टी ठेवा. वारंवार दुखत असल्यास डॉक्टरांचा सल्ला घ्या."}
+{"prompt": "त्वचेवर जळजळ", "completion": "अलोव्हेरा जेल लावा, थंड पाण्याने धुवा. सूर्यप्रकाश टाळा. त्रास वाढल्यास डॉक्टरांचा सल्ला घ्या."}
+{"prompt": "हृदयविकार", "completion": "छातीत दाब किंवा वेदना असल्यास त्वरित विश्रांती घ्या आणि रुग्णालयात जा. वेळ न घालवता वैद्यकीय मदत घ्या."}
+{"prompt": "थंड अॅलर्जी", "completion": "थंड वातावरण, धूळ, धूर टाळा. डॉक्टरांनी सांगितलेली औषधे घ्या. श्वास घेण्यात त्रास झाल्यास त्वरित रुग्णालयात जा."}
+{"prompt": "शारीरिक अशक्तपणा", "completion": "पौष्टिक अन्न घ्या, पुरेशी झोप घ्या, पाणी प्या. अशक्तपणा सतत असल्यास डॉक्टरांचा सल्ला घ्या."}
+{"prompt": "उष्माघात", "completion": "ओआरएस किंवा पाणी प्या, थंड जागेत विश्रांती घ्या. ताप, चक्कर किंवा बेशुद्धी आल्यास त्वरित रुग्णालयात जा."}
