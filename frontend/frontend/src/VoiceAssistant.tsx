@@ -33,12 +33,21 @@ const Airogyam: React.FC = () => {
   const autoSendRef = useRef<number | null>(null);
 
   const getVoiceForLang = (lang: string) => {
-    return voices.find((v: SpeechSynthesisVoice) => v.lang.toLowerCase().startsWith(lang)) || voices[0];
+    return (
+      voices.find((v: SpeechSynthesisVoice) =>
+        v.lang.toLowerCase().startsWith(lang)
+      ) || voices[0]
+    );
   };
 
   useEffect(() => {
-    if (!("webkitSpeechRecognition" in window) && !("SpeechRecognition" in window)) {
-      alert("Your browser doesn't support Speech Recognition. Use Chrome or Edge.");
+    if (
+      !("webkitSpeechRecognition" in window) &&
+      !("SpeechRecognition" in window)
+    ) {
+      alert(
+        "Your browser doesn't support Speech Recognition. Use Chrome or Edge."
+      );
     }
   }, []);
 
@@ -91,7 +100,9 @@ const Airogyam: React.FC = () => {
 
       if (res.data.audio) {
         const audio = new Audio(res.data.audio);
-        audio.play().catch(() => speak({ text: reply, voice: getVoiceForLang(lang) }));
+        audio
+          .play()
+          .catch(() => speak({ text: reply, voice: getVoiceForLang(lang) }));
       } else {
         speak({ text: reply, voice: getVoiceForLang(lang) });
       }
@@ -109,7 +120,11 @@ const Airogyam: React.FC = () => {
 
         <div className="controls">
           <label htmlFor="lang-select">Language: </label>
-          <select id="lang-select" value={lang} onChange={(e) => setLang(e.target.value)}>
+          <select
+            id="lang-select"
+            value={lang}
+            onChange={(e) => setLang(e.target.value)}
+          >
             {LANGUAGE_OPTIONS.map((option) => (
               <option key={option.value} value={option.value}>
                 {option.label}
@@ -118,7 +133,11 @@ const Airogyam: React.FC = () => {
           </select>
 
           <label className="auto-send">
-            <input type="checkbox" checked={autoSend} onChange={(e) => setAutoSend(e.target.checked)} />
+            <input
+              type="checkbox"
+              checked={autoSend}
+              onChange={(e) => setAutoSend(e.target.checked)}
+            />
             Auto-send on silence
           </label>
         </div>
@@ -133,11 +152,19 @@ const Airogyam: React.FC = () => {
         </div>
 
         <div className="responses">
-          <p><strong>You said:</strong> {transcript || <em>...waiting for input</em>}</p>
-          <p><strong>Assistant:</strong> {response || <em>...waiting for response</em>}</p>
+          <p>
+            <strong>You said:</strong>{" "}
+            {transcript || <em>...waiting for input</em>}
+          </p>
+          <p>
+            <strong>Assistant:</strong>{" "}
+            {response || <em>...waiting for response</em>}
+          </p>
         </div>
 
-        <small className="note">(Auto-stop after {SILENCE_TIMEOUT_MS / 1000}s of silence)</small>
+        <small className="note">
+          (Auto-stop after {SILENCE_TIMEOUT_MS / 1000}s of silence)
+        </small>
       </div>
     </div>
   );
