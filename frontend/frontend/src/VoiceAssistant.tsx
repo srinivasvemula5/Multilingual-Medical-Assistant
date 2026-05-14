@@ -2,7 +2,7 @@ import React, { useEffect, useRef, useState } from "react";
 import axios from "axios";
 import SpeechRecognition, { useSpeechRecognition } from "react-speech-recognition";
 import { useSpeechSynthesis } from "react-speech-kit";
-import "./VoiceAssistant.css"; // import CSS here
+import "./VoiceAssistant.css";
 
 interface BackendResponse {
   reply: string;
@@ -18,6 +18,8 @@ const LANGUAGE_OPTIONS = [
 ];
 
 const SILENCE_TIMEOUT_MS = 1500;
+
+const API_URL = "https://multilingual-medical-assistant-production.up.railway.app";
 
 const Airogyam: React.FC = () => {
   const [response, setResponse] = useState<string>("");
@@ -36,7 +38,7 @@ const Airogyam: React.FC = () => {
 
   useEffect(() => {
     if (!("webkitSpeechRecognition" in window) && !("SpeechRecognition" in window)) {
-      alert("⚠️ Your browser doesn't support Speech Recognition. Use Chrome or Edge.");
+      alert("Your browser doesn't support Speech Recognition. Use Chrome or Edge.");
     }
   }, []);
 
@@ -74,12 +76,16 @@ const Airogyam: React.FC = () => {
   const handleSend = async () => {
     const text = transcript.trim();
     if (!text) {
-      setResponse("⚠️ Please say something first.");
+      setResponse("Please say something first.");
       return;
     }
     try {
-      setResponse("⏳ Processing your request...");
-      const res = await axios.post<BackendResponse>("http://localhost:8000/medical_advice", { text, lang }, { timeout: 20000 });
+      setResponse("Processing your request...");
+      const res = await axios.post<BackendResponse>(
+        `${API_URL}/medical_advice`,
+        { text, lang },
+        { timeout: 20000 }
+      );
       const reply = res.data.reply || "No reply from assistant.";
       setResponse(reply);
 
@@ -92,7 +98,7 @@ const Airogyam: React.FC = () => {
       resetTranscript();
     } catch (error) {
       console.error("Error contacting backend:", error);
-      setResponse("⚠️ Unable to reach backend. Check if it's running on port 8000.");
+      setResponse("Unable to reach backend. Please try again.");
     }
   };
 
@@ -117,13 +123,13 @@ const Airogyam: React.FC = () => {
           </label>
         </div>
 
-        <p className="status">{listening ? "🎧 Listening..." : "Not listening"}</p>
+        <p className="status">{listening ? "🎤 Listening..." : "Not listening"}</p>
 
         <div className="buttons">
-          <button onClick={handleStart}>🎤 Start</button>
+          <button onClick={handleStart}>🎙 Start</button>
           <button onClick={() => SpeechRecognition.stopListening()}>⏹ Stop</button>
-          <button onClick={handleSend}>📤 Send</button>
-          <button onClick={resetTranscript}>🔁 Reset</button>
+          <button onClick={handleSend}>📨 Send</button>
+          <button onClick={resetTranscript}>🔄 Reset</button>
         </div>
 
         <div className="responses">
