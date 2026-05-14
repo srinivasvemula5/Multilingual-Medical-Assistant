@@ -31,7 +31,7 @@ const Airogyam: React.FC = () => {
   const autoSendRef = useRef<number | null>(null);
 
   const getVoiceForLang = (lang: string) => {
-    return voices.find((v) => v.lang.toLowerCase().startsWith(lang)) || voices[0];
+    return voices.find((v: SpeechSynthesisVoice) => v.lang.toLowerCase().startsWith(lang)) || voices[0];
   };
 
   useEffect(() => {
